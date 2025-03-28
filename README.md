@@ -1,2 +1,2 @@
-# financial-client-analysis
-Explorar datos financieros de clientes minoristas para identificar patrones de comportamiento, riesgos potenciales y oportunidades de negocio. Todo acompañado de visualizaciones y explicaciones claras (storytelling).
+# Financial Behavior Analysis of Retail Clients
+Explore financial data from retail clients to identify behavioral patterns, potential risks, and business opportunities. The analysis will be supported by clear visualizations and narrative storytelling to effectively communicate insights to both technical and non-technical audiences.
